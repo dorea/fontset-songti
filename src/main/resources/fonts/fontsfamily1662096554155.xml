@@ -13,6 +13,12 @@
 		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
 		<exportFonts/>
 	</fontFamily>
+	<fontFamily name="宋体">
+		<normal><![CDATA[fonts/SimSun/SimSun.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
 	<fontSet name="SeeSongtiSet">
 		<family familyName="Arial" primary="true">
 			<excludedScript><![CDATA[Han]]></excludedScript>
