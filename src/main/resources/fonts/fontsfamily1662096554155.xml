@@ -34,4 +34,12 @@
 			<includedScript><![CDATA[Han]]></includedScript>
 		</family>
 	</fontSet>
+	<fontSet name="SeeArialNarrowSongtiSet">
+		<family familyName="Arial Narrow" primary="true">
+			<excludedScript><![CDATA[Han]]></excludedScript>
+		</family>
+		<family familyName="SimSun">
+			<includedScript><![CDATA[Han]]></includedScript>
+		</family>
+	</fontSet>
 </fontFamilies>
