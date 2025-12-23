@@ -7,6 +7,13 @@
 		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
 		<exportFonts/>
 	</fontFamily>
+	<fontFamily name="ArialMT">
+		<normal><![CDATA[fonts/Arial/arialmt.ttf]]></normal>
+		<bold><![CDATA[fonts/Arial/ARIALBOLDMT.OTF]]></bold>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
 	<fontFamily name="Arial Narrow">
 		<normal><![CDATA[fonts/Arial/arialnarrow.ttf]]></normal>
 		<bold><![CDATA[fonts/Arial/arialnarrow_bold.ttf]]></bold>
